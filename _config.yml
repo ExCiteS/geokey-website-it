@@ -1,5 +1,5 @@
 name: GeoKey
 
 collections:
-    aiuto:
+    manuale:
         output: true
