@@ -1,2 +1,6 @@
 name: GeoKey
 highlighter: rouge
+
+collections:
+    help:
+        output: true
