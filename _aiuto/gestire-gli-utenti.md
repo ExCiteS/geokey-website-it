@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title:  "Gestire gli utenti"
+title: "Gestire gli utenti"
 ---
 
 Utilizzando gruppi di utenti, è possibile definire i ruoli degli utenti e configurare le autorizzazioni per i loro membri. Il ruolo generale del utente definisce se possono solo contribuire i dati o anche moderarli. Si può anche decidere a quali dati del vostro progetto i membri di un gruppo possono accedere.
