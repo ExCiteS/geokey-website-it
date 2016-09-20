@@ -11,13 +11,13 @@ Aggiungere gli utenti è semplice. In primo luogo accedi alla pagina user group 
 
 Per aggiungere un utente al gruppo di utenti, digitare il nome nella casella di testo in alto a sinistra. Viene visualizzato un elenco che mostra i nomi utente che corrispondono al nome immesso; cliccare sul nome dell'utente per aggiungere l'utente al gruppo.
 
-![Add users](images/add-remove-users-01.png)
+![Add users](/images/add-remove-users-01.png)
 
 ### Rimuovere un utente da un gruppo utenti
 
 Remove (rimuovere) accanto al loro nome nella lista.
 
-![Remove users](images/add-remove-users-02.png)
+![Remove users](/images/add-remove-users-02.png)
 
 ### Definire il ruolo dell'utente
 
@@ -37,26 +37,26 @@ Se non cambiate niente, i membri di un gruppo di utenti possono accedere a tutti
 
 È possibile, pero, limitare l'accesso ai contributi ad alcune categorie e anche ai contributi che hanno soltanto certi valori.
 
-![Go to data](images/usergroup-data-01.png)
+![Go to data](/images/usergroup-data-01.png)
 
 Per limitare l'accesso ad un sottoinsiemi di dati, selezionare "Members can access a subset of the project data only." (I membri possono accedere solo ad un sottoinsieme dei contributi del progetto).
 
-![Select subset](images/usergroup-data-02.png)
+![Select subset](/images/usergroup-data-02.png)
 
 Ora è possibile selezionare le categorie che devono essere accessibili da parte dei membri di questo gruppo. Per selezionare una categoria, clicca nella casella accanto al nome della categoria. (Se non selezionate le categorie in questa fase, i membri del gruppo utente non avrà accesso ai dati del progetto.)
 
-![Select category](images/usergroup-data-03.png)
+![Select category](/images/usergroup-data-03.png)
 
 Per limitare l'accesso ai contributi con determinati valori, cliccare su Restrict further" "limitare ulteriormente" accanto al nome della categoria. Quindi, selezionare il campo per la quale si desidera impostare i limiti dalla lista.
 
-![Select field](images/usergroup-data-04.png)
+![Select field](/images/usergroup-data-04.png)
 
 Inserire i valori validi per il campo nel modulo.
 
-![Select value](images/usergroup-data-05.png)
+![Select value](/images/usergroup-data-05.png)
 
 Per aggiungere altri filtri, fai clic su "Add another filter" (aggiungi un altro filtro).
 
-![Add another filter](images/usergroup-data-06.png)
+![Add another filter](/images/usergroup-data-06.png)
 
 Per salvare le impostazioni cliccare su save "Salva" nella parte inferiore della pagina.

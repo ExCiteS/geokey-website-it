@@ -1,6 +1,2 @@
 name: GeoKey
-highlighter: rouge
-
-collections:
-    aiuto:
-        output: true
+permalink: :title
