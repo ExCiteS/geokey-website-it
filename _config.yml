@@ -1,2 +1,5 @@
 name: GeoKey
-permalink: /:title.html
+
+collections:
+    aiuto:
+        output: true
