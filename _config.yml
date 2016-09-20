@@ -1,2 +1,2 @@
 name: GeoKey
-permalink: :title
+permalink: /:title.html
