@@ -2,5 +2,5 @@ name: GeoKey
 highlighter: rouge
 
 collections:
-    help:
+    aiuto:
         output: true
