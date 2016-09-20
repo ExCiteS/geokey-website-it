@@ -11,7 +11,7 @@ Questo documento descrive le fasi di creazione di un nuovo progetto: come creare
 
 Per creare un nuovo progetto, iniziare selezionando l’opzione *Create new project*.
 
-![Creare un progetto](/images/how-to-create-project-01.png)
+![Creare un progetto](images/how-to-create-project-01.png)
 
 Nella pagina seguente, vi verrà chiesto di compilare un modulo con i seguenti campi:
 
@@ -43,7 +43,7 @@ Le categorie definiscono il tipo di dati di un contributo. I campi di una catego
 
 Dalla project dashboard, selezionare _Create category_ (creare una categoria).
 
-![Creare una categoria](/images/how-to-create-project-02.png)
+![Creare una categoria](images/how-to-create-project-02.png)
 
 Nella pagina seguente, vi verrà chiesto di compilare un modulo con i seguenti campi:
 
