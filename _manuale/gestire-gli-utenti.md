@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: page
 title: "Gestire gli utenti"
 ---
 
