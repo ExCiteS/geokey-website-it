@@ -3,7 +3,7 @@ layout: manuale
 title: "Creando un nuovo progetto"
 ---
 
-I progetti sono il punto di partenza per le vostre attività di Community Maps. Se si desidera mappare i luoghi preferiti nella tua città o luoghi nel tuo quartiere che necessitano di miglioramento - abbiamo creato una interfaccia semplice per creare e gestire i progetti. In un progetto, è possibile definire quali tipi di dati verranno raccolti e quali utenti possono accedere, contribuire dati o moderare un progetto.
+I progetti sono il punto di partenza per le vostre attività di *Community Maps*. Se si desidera mappare i luoghi preferiti nella tua città o luoghi nel tuo quartiere che necessitano di miglioramento - abbiamo creato una interfaccia semplice per creare e gestire i progetti. In un progetto, è possibile definire quali tipi di dati verranno raccolti e quali utenti possono accedere, contribuire dati o moderare un progetto.
 
 Questo documento descrive le fasi di creazione di un nuovo progetto: come creare categorie e campi e come utilizzare i gruppi di utenti (user groups) per concedere autorizzazioni per gli utenti.
 

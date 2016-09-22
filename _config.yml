@@ -1,5 +1,7 @@
 name: GeoKey
 
 collections:
+    iniziare:
+        output: true
     manuale:
         output: true
