@@ -7,23 +7,23 @@ Utilizzando gruppi di utenti, è possibile definire i ruoli degli utenti e confi
 
 ### Aggiungere un utente a un gruppo di utenti
 
-Aggiungere gli utenti è semplice. In primo luogo accedi alla pagina user group (gruppo di utenti). Si dovrebbe vedere un riassunto dei membri già aggiunti al gruppo di utenti.
+Aggiungere gli utenti è semplice. In primo luogo accedi alla pagina *user group* (gruppo di utenti). Si dovrebbe vedere un riassunto dei membri già aggiunti al gruppo di utenti.
 
 Per aggiungere un utente al gruppo di utenti, digitare il nome nella casella di testo in alto a sinistra. Viene visualizzato un elenco che mostra i nomi utente che corrispondono al nome immesso; cliccare sul nome dell'utente per aggiungere l'utente al gruppo.
 
-![Add users](/images/add-remove-users-01.png)
+![Aggiungere un utente a un gruppo di utenti](/images/add-remove-users-01.png)
 
 ### Rimuovere un utente da un gruppo utenti
 
-Remove (rimuovere) accanto al loro nome nella lista.
+*Remove* (rimuovere) accanto al loro nome nella lista.
 
-![Remove users](/images/add-remove-users-02.png)
+![Rimuovere un utente da un gruppo utenti](/images/add-remove-users-02.png)
 
 ### Definire il ruolo dell'utente
 
 Ci sono tre diversi ruoli che possono essere assegnati ai membri di un gruppo di utenti.
 
-- **Read-only** (solo lettura): I membri possono soltanto vederi i dati. Essi non sono in grado di contribuire dati o di modeificare i dati. Tuttavia, i membri di un gruppo read-only sola possono aggiungere i commenti ai contributi del progetto.
+- **Read-only** (solo lettura): I membri possono soltanto vederi i dati. Essi non sono in grado di contribuire dati o di modeificare i dati. Tuttavia, i membri di un gruppo *read-only* sola possono aggiungere i commenti ai contributi del progetto.
 - **Contributor** (autore/contributore): I membri del gruppo sono in grado di visualizzare, contribuire e commentare i dati. Essi sono in grado di modificare e cancellare soltanto i loro dati.
 - **Moderator** (moderatore): Moderatori sono in grado di visualizzare contribuire e commentare tutti i dati del progetto. Inoltre essi possono approvare i contributi ‘in attesa’, nonché modificare ed rimuovere tutti i dati nel progetto. Gli amministratori di un progetto sono moderatori per impostazione predefinita.
 
@@ -47,7 +47,7 @@ Ora è possibile selezionare le categorie che devono essere accessibili da parte
 
 ![Select category](/images/usergroup-data-03.png)
 
-Per limitare l'accesso ai contributi con determinati valori, cliccare su Restrict further" "limitare ulteriormente" accanto al nome della categoria. Quindi, selezionare il campo per la quale si desidera impostare i limiti dalla lista.
+Per limitare l'accesso ai contributi con determinati valori, cliccare su "Restrict further" (limitare ulteriormente) accanto al nome della categoria. Quindi, selezionare il campo per la quale si desidera impostare i limiti dalla lista.
 
 ![Select field](/images/usergroup-data-04.png)
 
@@ -59,4 +59,4 @@ Per aggiungere altri filtri, fai clic su "Add another filter" (aggiungi un altro
 
 ![Add another filter](/images/usergroup-data-06.png)
 
-Per salvare le impostazioni cliccare su save "Salva" nella parte inferiore della pagina.
+Per salvare le impostazioni cliccare su *save* "salva" nella parte inferiore della pagina.
